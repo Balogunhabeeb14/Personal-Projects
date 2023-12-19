@@ -1,1 +1,1 @@
-# python_projects
+# personal_projects
